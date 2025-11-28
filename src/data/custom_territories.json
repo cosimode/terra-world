@@ -1,0 +1,149 @@
+[
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Liberland",
+      "iso_a3": "LIB",
+      "continent": "Europe",
+      "type": "Micronation"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [18.8712, 45.7600], [18.8805, 45.7620], [18.8920, 45.7750],
+        [18.8910, 45.7780], [18.8850, 45.7800], [18.8750, 45.7700],
+        [18.8712, 45.7600]
+      ]]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Principality of Sealand",
+      "iso_a3": "SEA",
+      "continent": "Europe",
+      "type": "Micronation"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [1.4825, 51.8951]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Transnistria",
+      "iso_a3": "PMR",
+      "continent": "Europe",
+      "type": "De Facto State"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [28.9, 48.2], [28.5, 48.0], [29.0, 47.5], [29.2, 47.3],
+        [29.5, 47.0], [29.8, 46.8], [29.9, 46.5], [30.1, 46.6],
+        [29.6, 47.2], [29.2, 47.8], [28.9, 48.2]
+      ]]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Northern Cyprus",
+      "iso_a3": "TRNC",
+      "continent": "Europe",
+      "type": "De Facto State"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [32.6, 35.1], [33.0, 35.1], [34.0, 35.0], [34.6, 35.6],
+        [34.5, 35.7], [32.9, 35.4], [32.6, 35.1]
+      ]]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Abkhazia",
+      "iso_a3": "ABK",
+      "continent": "Europe",
+      "type": "De Facto State"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [40.0, 43.4], [41.2, 43.2], [41.6, 42.7],
+        [40.5, 42.6], [40.0, 43.0], [40.0, 43.4]
+      ]]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "South Ossetia",
+      "iso_a3": "OST",
+      "continent": "Europe",
+      "type": "De Facto State"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[
+        [43.8, 42.7], [44.2, 42.6], [44.4, 42.2],
+        [44.0, 42.1], [43.8, 42.7]
+      ]]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Principality of Seborga",
+      "iso_a3": "SEB",
+      "continent": "Europe",
+      "type": "Micronation"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [7.6963, 43.8931]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Republic of Uzupis",
+      "iso_a3": "UZU",
+      "continent": "Europe",
+      "type": "Micronation"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [25.2950, 54.6806]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Freetown Christiania",
+      "iso_a3": "CST",
+      "continent": "Europe",
+      "type": "Micronation"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [12.5997, 55.6733]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Republic of Molossia",
+      "iso_a3": "MOL",
+      "continent": "North America",
+      "type": "Micronation"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.5397, 39.3228]
+    }
+  }
+]

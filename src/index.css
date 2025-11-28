@@ -1,0 +1,13 @@
+/* IMPORTANTE: Carica il font Poppins */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+body, html, #root {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    font-family: 'Poppins', sans-serif;
+    background-color: #f8fafc;
+    -webkit-font-smoothing: antialiased;
+}
